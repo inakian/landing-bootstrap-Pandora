@@ -169,36 +169,6 @@ img {
     width: 100%;
     padding: 0 20px;
     box-sizing: border-box;
-  }
-
-  /* Ajusta el tamaño de fuente */
-  body {
-    font-size: 16px;
-  }
-
-  /* Ajusta el tamaño de los encabezados */
-  h1 {
-    font-size: 28px;
-  }
-
-  h2 {
-    font-size: 24px;
-  }
-
-  /* Ajusta el tamaño de las imágenes */
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-}
-
-/* Estilos para dispositivos móviles en general */
-@media only screen and (max-width: 767px) {
-  /* Ajusta el ancho del contenido al 100% */
-  .container {
-    width: 100%;
-    padding: 0 20px;
-    box-sizing: border-box;
     margin: 0; /* Elimina el margen superior e inferior */
   }
 
